@@ -21,7 +21,8 @@ To run:
 OPENAI_API_KEY=<your_api_key>
 ```
 2. `pip install chainlit==1.1.101`
-3. `pip install -r requirements.txt`
-4. `chainlit run app.py -w`
+3. `chainlit run app.py -w`
 
 # Deployment
+
+Push to the huggingface repository, to auto-deploy.
