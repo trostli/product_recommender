@@ -1,4 +1,5 @@
 python-dotenv
+chainlit
 datasets
 langchain_community
 langchain-openai
