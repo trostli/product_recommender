@@ -57,7 +57,7 @@ class ProductRecommender:
         def format_docs(docs):
             return "\n\n".join([d.page_content for d in docs])
 
-        llm = ChatOpenAI(model="gpt-3.5-turbo-0125", temperature=0)
+        llm = ChatOpenAI(model="gpt-4o", temperature=0)
 
         self.runnable_chain = (
             {"context": retriever | format_docs, "question": RunnablePassthrough()}
