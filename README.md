@@ -1,3 +1,11 @@
+---
+title: "Product Recommender"
+emoji: "🚀"
+sdk: "docker"
+app_file: app.py
+pinned: true
+---
+
 # Prerequisites
 
 - Python 3.11 or higher
