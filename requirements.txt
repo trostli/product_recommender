@@ -1,0 +1,6 @@
+python-dotenv
+datasets
+langchain_community
+langchain-openai
+faiss-cpu
+tiktoken
