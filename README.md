@@ -20,7 +20,7 @@ To run:
 ```
 OPENAI_API_KEY=<your_api_key>
 ```
-2. `pip install chainlit==1.1.101`
+2. `pip install -r requirements.txt`
 3. `chainlit run app.py -w`
 
 # Deployment
