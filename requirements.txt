@@ -5,3 +5,5 @@ langchain_community
 langchain-openai
 faiss-cpu
 tiktoken
+crewai
+crewai[tools]
